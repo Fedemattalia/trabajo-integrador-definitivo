@@ -22,9 +22,11 @@ El proyecto utiliza las siguientes librerías:
 - **Buscar elemento y completar formularo**: Buscar elemento en la pagina y completar formulario, objetivo de esta practica es la manipulacion de elemento de la pagina.
 
 ## Ejecución del Proyecto
+la ruta para realizar el test es la siguiente: trabajo-integrador-master/qa-cucumber-Icaro-main-master/src/test/java/com/qaautomation/runners
 
 **Feature**: Haciendo clic en los escenarios.
 **TestRunner**: Haciendo clic secundario sobre el archivo y selecionado RUN, tener encuenta la configuracion interna para selecionar que tag se desea ejecutar
 ![ImagenSeleccion](imagen/img.png)
 Tener encuenta el tag de ejecuion configurado
 ![ImagenSeleccion](imagen/img_1.png)
+
